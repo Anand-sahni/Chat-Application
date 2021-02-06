@@ -1,3 +1,14 @@
+# You can view this application by using link provided below.
+<br/>
+https://chat-x-application.netlify.app/
+<br/>
+To login in chat application use this the following username and password
+<br/>
+username: Dummy
+<br/>
+password: dummy123
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
